@@ -1,12 +1,7 @@
 - 👋 Hi, I’m @Aayush-Bisht17
-- 👀 I’m interested in ai
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email me - AayushBisht700@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+-  I’m interested in ai
+-  I’m currently learning python
+-  How to reach me email me - AayushBisht700@gmail.com
+-  Pronouns: he/him
 
-<!---
-Aayush-Bisht17/Aayush-Bisht17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+   
